@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 11d88860cf561e9d1db3096f6d821f3a5131f1c959b58c449d804fa5644b8075
+# env_hash: 696aa91b8855e61461ac11616c01d47c2fb2c6f12579ab6ed26d3150716df057
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.6.20-hecda079_0.tar.bz2#1b1cca86e95c416a8e7eb6062af6d503
@@ -32,6 +32,7 @@ https://conda.anaconda.org/conda-forge/linux-64/lz4-c-1.9.2-he1b5a44_3.tar.bz2#b
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-he1b5a44_1.tar.bz2#d3da4932f3d8e6b3c81fcf177d1e6eab
 https://conda.anaconda.org/conda-forge/linux-64/openssl-1.1.1g-h516909a_1.tar.bz2#6fdcd20ec22aeffa10b6102bccc47e7f
 https://conda.anaconda.org/conda-forge/linux-64/pcre-8.44-he1b5a44_0.tar.bz2#e647d89cd5cdf62760cf283a001841ff
+https://conda.anaconda.org/conda-forge/linux-64/perl-5.26.2-h516909a_1006.tar.bz2#7159f7a31fb4176bac015a35ca8f199f
 https://conda.anaconda.org/conda-forge/linux-64/pixman-0.38.0-h516909a_1003.tar.bz2#7c0b1414e5af196415f7808fbd704143
 https://conda.anaconda.org/conda-forge/linux-64/pthread-stubs-0.4-h14c3975_1001.tar.bz2#e0b9987b65bba8016d21f5bdbe0a7923
 https://conda.anaconda.org/conda-forge/linux-64/tbb-2020.1-hc9558a2_0.tar.bz2#ca5543a3b0f8d62e38c5122a30f1aabd
@@ -142,6 +143,7 @@ https://conda.anaconda.org/conda-forge/noarch/cycler-0.10.0-py_2.tar.bz2#f6d7c7e
 https://conda.anaconda.org/conda-forge/linux-64/cytoolz-0.10.1-py37h516909a_0.tar.bz2#33e7c516f5424054cd600b457c6dc73b
 https://conda.anaconda.org/conda-forge/linux-64/entrypoints-0.3-py37hc8dfbb8_1001.tar.bz2#d2022cd098dbc7806a845669e9f23621
 https://conda.anaconda.org/conda-forge/linux-64/geotiff-1.6.0-ha04d9d0_1.tar.bz2#56cdf03031eed7aa801286f47970098e
+https://conda.anaconda.org/conda-forge/linux-64/git-2.28.0-pl526h5e3e691_1.tar.bz2#feaf4e1b10e5a76b62e09d66ae98fa07
 https://conda.anaconda.org/conda-forge/linux-64/importlib-metadata-1.7.0-py37hc8dfbb8_0.tar.bz2#c6b612afebd9dea4557d0281fa090ec5
 https://conda.anaconda.org/conda-forge/linux-64/jedi-0.17.2-py37hc8dfbb8_0.tar.bz2#977e3d0e255c6805aa201aeea428fbc9
 https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.2.0-py37h99015e2_0.tar.bz2#ac7fc9ebc7d09372e933edd2b5b783ed
