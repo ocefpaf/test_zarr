@@ -17,4 +17,4 @@ HDF5_DIR=${NB_PYTHON_PREFIX} ${NB_PYTHON_PREFIX}/bin/pip install --no-deps https
 ${NB_PYTHON_PREFIX}/bin/pip install https://github.com/pydata/xarray/archive/385dc15e75c80984bc4398c52a2d42ac3333fcc2.tar.gz
 
 # dev/branch zarr-python
-${NB_PYTHON_PREFIX}/bin/pip install git+https://github.com/HDFGroup/zarr-python.git@hdf5#egg=zarr
+${NB_PYTHON_PREFIX}/bin/pip install --no-deps  git+https://github.com/HDFGroup/zarr-python.git@hdf5#egg=zarr
