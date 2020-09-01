@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 15d2b928712231651c5cdf96f0f59cd0c61f3b5e3843c03eb1ee70b838c4c5ea
+# env_hash: c4e7bba5dddf32b7de6dbe930e0cbecb93bca756ee61fff4837b7b91f71007a7
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.6.20-hecda079_0.tar.bz2#1b1cca86e95c416a8e7eb6062af6d503
@@ -102,6 +102,7 @@ https://conda.anaconda.org/conda-forge/noarch/attrs-20.1.0-pyh9f0ad1d_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/noarch/backcall-0.2.0-pyh9f0ad1d_0.tar.bz2#6006a6d08a3fa99268a2681c7fb55213
 https://conda.anaconda.org/conda-forge/noarch/backports-1.0-py_2.tar.bz2#0da16b293affa6ac31812376f8eb79dd
 https://conda.anaconda.org/conda-forge/noarch/blinker-1.4-py_1.tar.bz2#fa509a09190583f869ae442bf4d17f5f
+https://conda.anaconda.org/conda-forge/noarch/cached-property-1.5.1-py_0.tar.bz2#a5773589b22d6d4f6201fb7c261bf77f
 https://conda.anaconda.org/conda-forge/noarch/cachetools-4.1.1-py_0.tar.bz2#d424f5ac67137e79906ba5cc63354876
 https://conda.anaconda.org/conda-forge/linux-64/cfitsio-3.470-hce51eda_6.tar.bz2#822e0a41d39789139203aa337ee71a55
 https://conda.anaconda.org/conda-forge/noarch/click-7.1.2-pyh9f0ad1d_0.tar.bz2#bd50a970ce07e660c319fdc4d730d3f1
@@ -203,7 +204,7 @@ https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py37h8f50634_1000
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.1-py37hb09aad4_0.tar.bz2#e77b328cfe6bd416096ca39bd65ae090
 https://conda.anaconda.org/conda-forge/noarch/dask-core-2.24.0-py_0.tar.bz2#b457ff6fbc8e26da74dcc26a5b5bffbc
 https://conda.anaconda.org/conda-forge/noarch/datashape-0.5.4-py_1.tar.bz2#50ddfce434ea596fc4497085f403a9d5
-https://conda.anaconda.org/conda-forge/linux-64/h5py-2.10.0-nompi_py37h90cd8ad_104.tar.bz2#a09536cc7c39e0b7c3dc65d37323afce
+https://conda.anaconda.org/conda-forge/label/h5py_dev/linux-64/h5py-2.11.0.dev-nompi_py37hf7afa78_101.tar.bz2#0d0dbd7b5157acf535e95e36ec70d923
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-1.7.0-0.tar.bz2#3e6503b25200f60149cce699a47cf09e
 https://conda.anaconda.org/conda-forge/linux-64/jupyter_core-4.6.3-py37hc8dfbb8_1.tar.bz2#2169191b3df60024143e88aa047454ae
 https://conda.anaconda.org/conda-forge/noarch/mako-1.1.3-pyh9f0ad1d_0.tar.bz2#7c87121b0244cf6a1f44a1df12a846ea
